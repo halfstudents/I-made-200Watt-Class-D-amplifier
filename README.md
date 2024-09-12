@@ -69,6 +69,8 @@ Working and Testing:
 
 Here I have attached a video, here you can see the raw audio performance. The testing setup includes a DSP unit, 24V 10A power supply and 200W subwoofer. Test at 70% volume the amplifier performs best and produces very low heat which can be dissipated by a 40x30mm passive heat sink.
 
+https://www.instructables.com/I-Made-200Watt-Class-D-Amplifier/
+
 Final words:
 
 ![mini_IMG_6955](https://github.com/user-attachments/assets/64064cf5-8aa4-4220-a70d-712b1d9068fd)
